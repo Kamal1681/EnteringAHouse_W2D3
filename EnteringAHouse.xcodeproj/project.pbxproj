@@ -8,24 +8,66 @@
 
 /* Begin PBXBuildFile section */
 		C6759D5222B9CA1900A8936A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C6759D5122B9CA1900A8936A /* AppDelegate.m */; };
-		C6759D5522B9CA1900A8936A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C6759D5422B9CA1900A8936A /* ViewController.m */; };
+		C6759D5522B9CA1900A8936A /* DoorWay.m in Sources */ = {isa = PBXBuildFile; fileRef = C6759D5422B9CA1900A8936A /* DoorWay.m */; };
 		C6759D5822B9CA1900A8936A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6759D5622B9CA1900A8936A /* Main.storyboard */; };
 		C6759D5A22B9CA1B00A8936A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6759D5922B9CA1B00A8936A /* Assets.xcassets */; };
 		C6759D5D22B9CA1B00A8936A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6759D5B22B9CA1B00A8936A /* LaunchScreen.storyboard */; };
 		C6759D6022B9CA1B00A8936A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C6759D5F22B9CA1B00A8936A /* main.m */; };
+		C6759D9222B9EE3A00A8936A /* CoatRoom.m in Sources */ = {isa = PBXBuildFile; fileRef = C6759D9122B9EE3A00A8936A /* CoatRoom.m */; };
+		C6759D9522B9EE5D00A8936A /* Library.m in Sources */ = {isa = PBXBuildFile; fileRef = C6759D9422B9EE5D00A8936A /* Library.m */; };
+		C6759D9822B9EE7200A8936A /* DiningRoom.m in Sources */ = {isa = PBXBuildFile; fileRef = C6759D9722B9EE7200A8936A /* DiningRoom.m */; };
+		C6759D9B22B9EE8B00A8936A /* StairsUp.m in Sources */ = {isa = PBXBuildFile; fileRef = C6759D9A22B9EE8B00A8936A /* StairsUp.m */; };
+		C6759D9E22B9EEA300A8936A /* SecretPassage.m in Sources */ = {isa = PBXBuildFile; fileRef = C6759D9D22B9EEA300A8936A /* SecretPassage.m */; };
+		C6759DA122B9EEB500A8936A /* Kitchen.m in Sources */ = {isa = PBXBuildFile; fileRef = C6759DA022B9EEB500A8936A /* Kitchen.m */; };
+		C6759DA422B9EEC700A8936A /* Bedroom.m in Sources */ = {isa = PBXBuildFile; fileRef = C6759DA322B9EEC700A8936A /* Bedroom.m */; };
+		C6759DA722B9EED700A8936A /* Bathroom.m in Sources */ = {isa = PBXBuildFile; fileRef = C6759DA622B9EED700A8936A /* Bathroom.m */; };
+		C6759DAA22B9EEEF00A8936A /* Dungeon.m in Sources */ = {isa = PBXBuildFile; fileRef = C6759DA922B9EEEF00A8936A /* Dungeon.m */; };
+		C6759DAD22B9EF0300A8936A /* Labratory.m in Sources */ = {isa = PBXBuildFile; fileRef = C6759DAC22B9EF0300A8936A /* Labratory.m */; };
+		C6759DB022B9EF1300A8936A /* MysteriousLake.m in Sources */ = {isa = PBXBuildFile; fileRef = C6759DAF22B9EF1300A8936A /* MysteriousLake.m */; };
+		C6759DB322B9EF3200A8936A /* BackPorch.m in Sources */ = {isa = PBXBuildFile; fileRef = C6759DB222B9EF3200A8936A /* BackPorch.m */; };
+		C6759DB622B9EF4700A8936A /* Generator.m in Sources */ = {isa = PBXBuildFile; fileRef = C6759DB522B9EF4700A8936A /* Generator.m */; };
+		C6759DB922B9EF5600A8936A /* CursedChalice.m in Sources */ = {isa = PBXBuildFile; fileRef = C6759DB822B9EF5600A8936A /* CursedChalice.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		C6759D4D22B9CA1900A8936A /* EnteringAHouse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EnteringAHouse.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6759D5022B9CA1900A8936A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		C6759D5122B9CA1900A8936A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		C6759D5322B9CA1900A8936A /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		C6759D5422B9CA1900A8936A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		C6759D5322B9CA1900A8936A /* DoorWay.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DoorWay.h; sourceTree = "<group>"; };
+		C6759D5422B9CA1900A8936A /* DoorWay.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DoorWay.m; sourceTree = "<group>"; };
 		C6759D5722B9CA1900A8936A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C6759D5922B9CA1B00A8936A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C6759D5C22B9CA1B00A8936A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C6759D5E22B9CA1B00A8936A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C6759D5F22B9CA1B00A8936A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C6759D9022B9EE3A00A8936A /* CoatRoom.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CoatRoom.h; sourceTree = "<group>"; };
+		C6759D9122B9EE3A00A8936A /* CoatRoom.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CoatRoom.m; sourceTree = "<group>"; };
+		C6759D9322B9EE5D00A8936A /* Library.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Library.h; sourceTree = "<group>"; };
+		C6759D9422B9EE5D00A8936A /* Library.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Library.m; sourceTree = "<group>"; };
+		C6759D9622B9EE7200A8936A /* DiningRoom.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DiningRoom.h; sourceTree = "<group>"; };
+		C6759D9722B9EE7200A8936A /* DiningRoom.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DiningRoom.m; sourceTree = "<group>"; };
+		C6759D9922B9EE8B00A8936A /* StairsUp.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StairsUp.h; sourceTree = "<group>"; };
+		C6759D9A22B9EE8B00A8936A /* StairsUp.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StairsUp.m; sourceTree = "<group>"; };
+		C6759D9C22B9EEA300A8936A /* SecretPassage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecretPassage.h; sourceTree = "<group>"; };
+		C6759D9D22B9EEA300A8936A /* SecretPassage.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecretPassage.m; sourceTree = "<group>"; };
+		C6759D9F22B9EEB500A8936A /* Kitchen.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Kitchen.h; sourceTree = "<group>"; };
+		C6759DA022B9EEB500A8936A /* Kitchen.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Kitchen.m; sourceTree = "<group>"; };
+		C6759DA222B9EEC700A8936A /* Bedroom.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Bedroom.h; sourceTree = "<group>"; };
+		C6759DA322B9EEC700A8936A /* Bedroom.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Bedroom.m; sourceTree = "<group>"; };
+		C6759DA522B9EED700A8936A /* Bathroom.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Bathroom.h; sourceTree = "<group>"; };
+		C6759DA622B9EED700A8936A /* Bathroom.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Bathroom.m; sourceTree = "<group>"; };
+		C6759DA822B9EEEF00A8936A /* Dungeon.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Dungeon.h; sourceTree = "<group>"; };
+		C6759DA922B9EEEF00A8936A /* Dungeon.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Dungeon.m; sourceTree = "<group>"; };
+		C6759DAB22B9EF0300A8936A /* Labratory.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Labratory.h; sourceTree = "<group>"; };
+		C6759DAC22B9EF0300A8936A /* Labratory.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Labratory.m; sourceTree = "<group>"; };
+		C6759DAE22B9EF1300A8936A /* MysteriousLake.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MysteriousLake.h; sourceTree = "<group>"; };
+		C6759DAF22B9EF1300A8936A /* MysteriousLake.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MysteriousLake.m; sourceTree = "<group>"; };
+		C6759DB122B9EF3200A8936A /* BackPorch.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BackPorch.h; sourceTree = "<group>"; };
+		C6759DB222B9EF3200A8936A /* BackPorch.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BackPorch.m; sourceTree = "<group>"; };
+		C6759DB422B9EF4700A8936A /* Generator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Generator.h; sourceTree = "<group>"; };
+		C6759DB522B9EF4700A8936A /* Generator.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Generator.m; sourceTree = "<group>"; };
+		C6759DB722B9EF5600A8936A /* CursedChalice.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CursedChalice.h; sourceTree = "<group>"; };
+		C6759DB822B9EF5600A8936A /* CursedChalice.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CursedChalice.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,8 +102,36 @@
 			children = (
 				C6759D5022B9CA1900A8936A /* AppDelegate.h */,
 				C6759D5122B9CA1900A8936A /* AppDelegate.m */,
-				C6759D5322B9CA1900A8936A /* ViewController.h */,
-				C6759D5422B9CA1900A8936A /* ViewController.m */,
+				C6759D5322B9CA1900A8936A /* DoorWay.h */,
+				C6759D5422B9CA1900A8936A /* DoorWay.m */,
+				C6759D9022B9EE3A00A8936A /* CoatRoom.h */,
+				C6759D9122B9EE3A00A8936A /* CoatRoom.m */,
+				C6759D9322B9EE5D00A8936A /* Library.h */,
+				C6759D9422B9EE5D00A8936A /* Library.m */,
+				C6759D9622B9EE7200A8936A /* DiningRoom.h */,
+				C6759D9722B9EE7200A8936A /* DiningRoom.m */,
+				C6759D9922B9EE8B00A8936A /* StairsUp.h */,
+				C6759D9A22B9EE8B00A8936A /* StairsUp.m */,
+				C6759D9C22B9EEA300A8936A /* SecretPassage.h */,
+				C6759D9D22B9EEA300A8936A /* SecretPassage.m */,
+				C6759D9F22B9EEB500A8936A /* Kitchen.h */,
+				C6759DA022B9EEB500A8936A /* Kitchen.m */,
+				C6759DA222B9EEC700A8936A /* Bedroom.h */,
+				C6759DA322B9EEC700A8936A /* Bedroom.m */,
+				C6759DA522B9EED700A8936A /* Bathroom.h */,
+				C6759DA622B9EED700A8936A /* Bathroom.m */,
+				C6759DA822B9EEEF00A8936A /* Dungeon.h */,
+				C6759DA922B9EEEF00A8936A /* Dungeon.m */,
+				C6759DAB22B9EF0300A8936A /* Labratory.h */,
+				C6759DAC22B9EF0300A8936A /* Labratory.m */,
+				C6759DAE22B9EF1300A8936A /* MysteriousLake.h */,
+				C6759DAF22B9EF1300A8936A /* MysteriousLake.m */,
+				C6759DB122B9EF3200A8936A /* BackPorch.h */,
+				C6759DB222B9EF3200A8936A /* BackPorch.m */,
+				C6759DB422B9EF4700A8936A /* Generator.h */,
+				C6759DB522B9EF4700A8936A /* Generator.m */,
+				C6759DB722B9EF5600A8936A /* CursedChalice.h */,
+				C6759DB822B9EF5600A8936A /* CursedChalice.m */,
 				C6759D5622B9CA1900A8936A /* Main.storyboard */,
 				C6759D5922B9CA1B00A8936A /* Assets.xcassets */,
 				C6759D5B22B9CA1B00A8936A /* LaunchScreen.storyboard */,
@@ -141,9 +211,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C6759D5522B9CA1900A8936A /* ViewController.m in Sources */,
+				C6759D5522B9CA1900A8936A /* DoorWay.m in Sources */,
+				C6759DAD22B9EF0300A8936A /* Labratory.m in Sources */,
+				C6759D9222B9EE3A00A8936A /* CoatRoom.m in Sources */,
+				C6759DA422B9EEC700A8936A /* Bedroom.m in Sources */,
+				C6759DA722B9EED700A8936A /* Bathroom.m in Sources */,
+				C6759DA122B9EEB500A8936A /* Kitchen.m in Sources */,
+				C6759D9B22B9EE8B00A8936A /* StairsUp.m in Sources */,
+				C6759DB922B9EF5600A8936A /* CursedChalice.m in Sources */,
+				C6759DB322B9EF3200A8936A /* BackPorch.m in Sources */,
 				C6759D6022B9CA1B00A8936A /* main.m in Sources */,
+				C6759D9E22B9EEA300A8936A /* SecretPassage.m in Sources */,
+				C6759DAA22B9EEEF00A8936A /* Dungeon.m in Sources */,
 				C6759D5222B9CA1900A8936A /* AppDelegate.m in Sources */,
+				C6759D9522B9EE5D00A8936A /* Library.m in Sources */,
+				C6759DB622B9EF4700A8936A /* Generator.m in Sources */,
+				C6759DB022B9EF1300A8936A /* MysteriousLake.m in Sources */,
+				C6759D9822B9EE7200A8936A /* DiningRoom.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,6 +370,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = X6GVVL7554;
 				INFOPLIST_FILE = EnteringAHouse/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -302,6 +387,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = X6GVVL7554;
 				INFOPLIST_FILE = EnteringAHouse/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

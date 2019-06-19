@@ -6,13 +6,13 @@
 //  Copyright © 2019 Kamal Maged. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "DoorWay.h"
 
-@interface ViewController ()
+@interface DoorWay ()
 
 @end
 
-@implementation ViewController
+@implementation DoorWay
 
 - (void)viewDidLoad {
     [super viewDidLoad];
